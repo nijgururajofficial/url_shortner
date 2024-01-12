@@ -1,7 +1,7 @@
 # URL Shortener
 
 ## Description
-This project is a simple URL shortener built using Node.js, Express.js, and MongoDB. The application takes a user-inputted website URL, generates a unique code, and appends it to the localhost, displaying the shortened URL. Server-side rendering is achieved using EJS. MongoDB is utilized to store the generated code, the redirect URL (original URL), timestamps, and the number of clicks. The application also provides analytics for the shortened URLs.
+This project is a simple URL shortener built using Node.js, Express.js, and MongoDB. The application takes a user-input website URL, generates a unique code, and appends it to the localhost, displaying the shortened URL. Server-side rendering is achieved using EJS. MongoDB is utilized to store the generated code, the redirect URL (original URL), timestamps, and the number of clicks. The application also provides analytics for the shortened URLs.
 
 ## Technologies Used
 - Node.js
